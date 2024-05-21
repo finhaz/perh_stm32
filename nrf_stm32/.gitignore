@@ -1,0 +1,36 @@
+# 应该忽略的文件
+*.hex
+*.bak
+*.ddk
+*.edk
+*.lst
+*.lnp
+*.mpf
+*.mpj
+*.obj
+*.omf
+*.plg
+*.rpt
+*.tmp
+*.__i
+*.crf
+*.o
+*.d
+*.axf
+*.tra
+*.dep          
+JLinkLog.txt
+*.iex
+*.htm
+*.sct
+*.map
+*.Administrator
+*.uvopt
+
+#Keil Project screen layout file
+*.uvguix.*
+*.uvgui.*
+
+#JLINK file
+JLinkLog.txt
+*.dbgconf
